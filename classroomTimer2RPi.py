@@ -1,3 +1,6 @@
+# this version is for the RaspberryPi attached to the touchscreen monitor
+# it includes the mouse module so that the mouse can be programmatically moved
+#     to keep the screen alive (keep from going blank)
 import tkinter as tk
 import datetime as dt
 # import calendar
