@@ -6,7 +6,7 @@ import math
 
 
 window = tk.Tk()
-window.attributes('-fullscreen',True)
+#window.attributes('-fullscreen',True)
 
 fontSize = 100
 
